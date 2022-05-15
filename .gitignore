@@ -1,0 +1,5 @@
+.idea
+static/dogs/*
+__pycache__
+
+run/log.txt
